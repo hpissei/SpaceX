@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/DotNetWebAPI/.vs
+/DotNetWebAPI/.vs/
+/DotNetWebAPI/bin/
+/DotNetWebAPI/obj/
+/DotNetWebAPITest/bin/
+/DotNetWebAPITest/obj/
+
+/DotNetWebAPI/.vs/DotNetWebAPI/v17/.suo
