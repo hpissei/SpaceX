@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj": {}
+    "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj": {
+    "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj",
         "projectName": "DotNetWebAPI",
-        "projectPath": "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj",
+        "projectPath": "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\DotNetWebAPI.csproj",
         "packagesPath": "C:\\Users\\Hpanghanti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Hpanghanti\\source\\repos\\SpaceX\\SpaceX\\DotNetWebAPI\\DotNetWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
