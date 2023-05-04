@@ -4,6 +4,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient();
 builder.Services.AddSwaggerGen();
+builder.Services.AddCors(options =>
+{
+	options.AddPolicy(name : "AllowAnyOrigin",
+					  policy =>
+					  {
+						  policy.AllowAnyOrigin();
+					  });
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -20,7 +28,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseCors();
 app.UseAuthorization();
 
 app.MapControllerRoute(
